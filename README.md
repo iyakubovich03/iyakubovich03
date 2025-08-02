@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ivan Yakubovich</h1>
 <h3 align="center">A passionate developer from Georgia Institute of Technology</h3>
 
-- 🔭 I’m currently working on **a fullstack ecommerce store that utilizes several aws services and works efficiently with AWS DynamoDB**
+- 🔭 I’m currently working on **a fullstack ecommerce store that utilizes aws services and works efficiently with AWS DynamoDB**
 
 - 🌱 I’m currently learning **Django and React**
 
