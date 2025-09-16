@@ -15,7 +15,7 @@
 ## 📫 How to Reach Me  
 - Email: **iyakubovich3@gatech.edu**  
 - GitHub: [github.com/iyakubovich03](https://github.com/iyakubovich03)  
-- LinkedIn: [https://www.linkedin.com/in/ivan-yakubovich-b0ab78259/]
+- LinkedIn: https://www.linkedin.com/in/ivan-yakubovich-b0ab78259/
 ---
 
 ## 🛠️ Languages & Tools  
